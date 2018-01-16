@@ -8,8 +8,8 @@ html {
 }
 
 .banner-wrap {
- background-color: #495562;
- color: #fff;
+  background-color: #495562;
+  color: #fff;
 }
 
 .btn-ghost {
@@ -18,8 +18,8 @@ html {
 }
 
 .btn-ghost:hover {
-  border-color: #fff;
-  background-color: #fff;
+  border-color: #efefef;
+  background-color: #efefef;
   color: #495562;
 }
 
